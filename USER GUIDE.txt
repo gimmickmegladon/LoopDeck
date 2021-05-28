@@ -1,0 +1,29 @@
+LoopDeck 1.1 User Guide:
+
+Greetings and thank you for trying out the LoopDeck application.
+
+
+This is an application designed for beginners interested in music and music production.
+Boot up the software(use the handy LoopDeckSetup.exe installer if you haven't yet).
+
+Tutorial:
+In the center of the application there are 20 Loop buttons, clicking on them toggles them between On and Off - this is indicated by the buttons ligthing up. Each row of loops/buttons is designed to fulfil similal roles within a song and belongs to the same category. Loops within the same category are colored the same. 
+At the bottom of the screen there are 5 sliders which control volume - the sliders (left to right) correspond to rows of buttons (up to down). They have the same colours as the sounds they control.
+
+Once you have selected any number of loops, click Play(top left) to hear them. Now you can activate any loop and it will start playing once the current one is finished. You can adjust volume levels at the bottom. 
+
+LoopDeck 1.1 comes with 3 songs and can be switched to while audio is stopped using the buttons(Bank 1-3) in the top right corner.
+
+Bank 1 contains a song in the style of sampled hip-hop, relying on strong rhythmic ideas and showcasing the art of sampling - showing that creating music is possible from most sounds.
+
+Bank 2 contains a song in a mixed style electronic dance music combined with hip-hop drums. It showcases that music can be whatever the creator wants it to be - there is no requirement to conform to standards.
+
+Bank 3 contains a song with primitive-style drums and an instrumentation mostly based on recorded flute - showcasing the importance of layering in modern music. This is contrasted with aggressive electronic bass sounds in an attempt to show the use of counterpoint as an important musical concept. 
+
+Bank 4 is empty, and you can fill it with your own custom loops!
+To do so, you will need to source them from somewhere. If you decide to compose them yourself, make sure all of them match in length and export them at a sample rate of 48kHz.
+Once you have your loops, place them in: Documents/LoopDeckAudio/base_samples/bank_4/
+Afterwards, restart the application and you can start using them!
+
+
+The most important thing to remember while using the application: have fun!

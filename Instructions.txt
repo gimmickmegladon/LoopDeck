@@ -1,0 +1,17 @@
+This file is to serve as instructions on how to run the code or launch the software. 
+
+You can easily run the software by running the LoopDeckSetup.exe which decompresses the built software into a location of your choice. All files installed can be uninstalled by running the uninstaller in the installation folder.
+
+Alternatively, you can run the same application by going to AudioAppDemo/Builds/VisualStudio2019/x64/Release/App and running AudioAppDemo.exe
+
+NOTE: Unless you have installed from the provided installer, you will have to manually copy the supplied LoopDeckAudio folder into your local "Documents" folder for the application to function.
+
+
+Reconstructing from the source code:
+
+1. The easiest and most correct way to reconstruct the program from the source code would be to install JUCE's project manager - Projucer and load the AudioAppDemo.jucer project file from the AudioAppDemo folder. 
+The JUCER can then create exporters for other IDEs of your choice where you can successfully run the file with all dependencies.
+
+2. Building without first setting up your IDE with the Projucer is untested. If you wish to not use the Projucer the Source folder contains all required source code, and the AudioAppDemo has Gradle build files. All you would need in this case is access to the JUCE framework(which may be taken care of by your IDE).
+
+3. The AudioAppDemo folder can also be imported into VSCode(maybe also other IDEs) as a project and should work.
